@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MamaAmaLabaDwa:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MamaAmaLabaDwa</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MamaAmaLabaDwa-1.war">
+      <element id="artifact" artifact-name="MamaAmaLabaDwa:war exploded" />
+    </root>
+  </artifact>
+</component>
